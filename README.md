@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 <code><img height="40" alt="java" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></code>
 <code><img height="40" alt="tailwind" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png"></code>
 <code><img height="40" alt="mysql" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code> 
+<code> <img height="40" alt="c++" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png"></code>
+
 
 
 
