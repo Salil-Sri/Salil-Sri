@@ -43,6 +43,7 @@ I'm a passionate web developer dedicated to crafting seamless and user-friendly 
 
 ![Salil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Salil-Sri&show_icons=true&theme=radical)
 
+## Recent Project
 
 Check out my new project [Countries Info](https://countries-search-project11.netlify.app/) 
 
