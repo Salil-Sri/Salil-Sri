@@ -1,37 +1,51 @@
-## Hi there, I'm Salil Srivastava👋
+# 👋 Hello, I'm Salil Srivastava
 
-<!--
-**Salil-Sri/Salil-Sri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate web developer dedicated to crafting seamless and user-friendly web experiences.
 
-Here are some ideas to get you started:
--->
+## 🔭 Current Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- **[Note-Taking App](https://github.com/Salil-Sri/Note-Taking-App):** A web application that allows users to create, edit, and manage notes efficiently.
+- **[Calculator](https://github.com/Salil-Sri/Calculator):** A basic calculator application for performing arithmetic operations.
+- **[Text-To-Speech Converter](https://github.com/Salil-Sri/Text-To-Speech-Converter):** An application that converts written text into spoken words, enhancing accessibility.
+
+## 🌱 Currently Learning
+
+- **React.js:** Enhancing my front-end development skills with modern JavaScript frameworks.
+- **Node.js:** Diving into back-end development to build full-stack applications.
+
+## 👯 Collaboration Interests
+
+- Open-source web development projects.
+- Innovative UI/UX design implementations.
+
+## 💬 Ask Me About
+
+- Responsive web design principles.
+- JavaScript best practices.
+
+## 📫 How to Reach Me
+
+- **Email:** [srivastavasalil2211@gmail.com](srivastavasalil2211@gmail.com)
+- **LinkedIn:** [https://www.linkedin.com/in/salil-srivastavaa/](https://www.linkedin.com/in/salil-srivastavaa/)
+
+## 🛠️ Technologies & Tools
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+
+## 📈 GitHub Stats
+
+![Salil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Salil-Sri&show_icons=true&theme=radical)
 
 
-<code><img height="40" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
- <code><img height="40" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
- <code><img height="40" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> 
-<code><img height="40" alt="java" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></code>
-<code><img height="40" alt="tailwind" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png"></code>
-<code><img height="40" alt="mysql" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code> 
-<code> <img height="40" alt="c++" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png"></code>
-<code><img height="40" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+Check out my new project [Countries Info](https://countries-search-project11.netlify.app/) 
 
+## ⚡ Fun Fact
 
-
-
-
- 
-
-
-
-
-
+I'm an avid traveler and love exploring new cultures and cuisines.
