@@ -15,7 +15,7 @@
 - 🔭 I’m currently working on: **Note-Taking App, Calculator, Text-to-Speech Converter**.
 - 🌱 I’m learning **React.js & Node.js** to build full-stack apps.
 - 👯 I’m looking to collaborate on **Open Source Web Projects**.
-- 📝 Reach me here: [Email](mailto:srivastavasalil2211@gmail.com)
+- 📝 Reach me here: [Email](mailto:srivastavasalil2211@gmail.com) 
 - 🔗 Connect with me on <a href="https://www.linkedin.com/in/salil-srivastavaa/" style="text-decoration: none;">LinkedIn</a>
 
 <p align="left">
