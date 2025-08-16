@@ -1,52 +1,56 @@
-# 👋 Hello, I'm Salil Srivastava
+<div align="center" >
+  <img width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding">
+</div>
 
-I'm a passionate web developer dedicated to crafting seamless and user-friendly web experiences.
+<h1 align="center">Hi 👋, I'm Salil Srivastava</h1>
 
-## 🔭 Current Projects
+<h3 align="center">A passionate Web Developer from India 🚀</h3>
 
-- **[Note-Taking App](https://github.com/Salil-Sri/Note-Taking-App):** A web application that allows users to create, edit, and manage notes efficiently.
-- **[Calculator](https://github.com/Salil-Sri/Calculator):** A basic calculator application for performing arithmetic operations.
-- **[Text-To-Speech Converter](https://github.com/Salil-Sri/Text-To-Speech-Converter):** An application that converts written text into spoken words, enhancing accessibility.
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
+</p>
 
-## 🌱 Currently Learning
+### 🙋‍♂️ About Me
+- 👨‍🎓 Computer Science enthusiast passionate about **Web Development**.
+- 🔭 I’m currently working on: **Note-Taking App, Calculator, Text-to-Speech Converter**.
+- 🌱 I’m learning **React.js & Node.js** to build full-stack apps.
+- 👯 I’m looking to collaborate on **Open Source Web Projects**.
+- 📝 Reach me here: <a href="mailto:srivastavasalil2211@gmail.com" style="text-decoration: none;">Email</a>
+- 🔗 Connect with me on <a href="https://www.linkedin.com/in/salil-srivastavaa/" style="text-decoration: none;">LinkedIn</a>
 
-- **React.js:** Enhancing my front-end development skills with modern JavaScript frameworks.
-- **Node.js:** Diving into back-end development to build full-stack applications.
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
+</p>
 
-## 👯 Collaboration Interests
+### 💻 Tech Stack:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,tailwind,git,angular" />
+  </a>
+</p>
 
-- Open-source web development projects.
-- Innovative UI/UX design implementations.
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,mongodb,postman,vscode,firebase,express" />
+  </a>
+</p>
 
-## 💬 Ask Me About
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
+</p>
+  
+### 📊 GitHub Stats:
+![Salil's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Salil-Sri&theme=radical&hide_border=false)<br/>
+![Salil's Stats](https://github-readme-stats.vercel.app/api?username=Salil-Sri&theme=radical&show_icons=true&hide_border=false&count_private=true)<br/>
+![Salil's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Salil-Sri&theme=radical&show_icons=true&hide_border=false&layout=compact)<br/>
+[![](https://visitcount.itsvg.in/api?id=Salil-Sri&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
-- Responsive web design principles.
-- JavaScript best practices.
-
-## 📫 How to Reach Me
-
-- **Email:** [srivastavasalil2211@gmail.com](srivastavasalil2211@gmail.com)
-- **LinkedIn:** [https://www.linkedin.com/in/salil-srivastavaa/](https://www.linkedin.com/in/salil-srivastavaa/)
-
-## 🛠️ Technologies & Tools
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-
-## 📈 GitHub Stats
-
-![Salil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Salil-Sri&show_icons=true&theme=radical)
-
-## Recent Project
-
-Check out my new project [Countries Info](https://countries-search-project11.netlify.app/) 
-
-## ⚡ Fun Fact
-
-I'm an avid traveler and love exploring new cultures and cuisines.
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
+</p>
+  
+### 📬 Reach me out:
+<p align="left">
+<a href="https://www.linkedin.com/in/salil-srivastavaa/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href="mailto:srivastavasalil2211@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
+</p>
